@@ -1,10 +1,11 @@
 package jp.jaxa.iss.kibo.rpc.defaultapk;
 
 import jp.jaxa.iss.kibo.rpc.api.KiboRpcService;
+///*
 import org.opencv.core.*;
 import org.opencv.imgproc.Imgproc;
 import org.opencv.utils.Converters;
-
+//*/
 import java.util.ArrayList;
 import java.util.List;
 
